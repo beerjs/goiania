@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "properties": {
+    "marker-color": "#ffee00",
+    "marker-size": "large",
+    "marker-symbol": "beer",
+    "city": "Goiânia",
+    "state": "Goiás",
+    "country": "Brasil"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -49.25642967224121,
+      -16.680595241702047
+    ]
+  }
+}

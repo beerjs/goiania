@@ -41,6 +41,8 @@ clique aqui.
 Em caso de dúvidas sobre os princípios que seguimos em nossa comunidade, acesse [aqui](https://github.com/stumpsyn/policies) para maiores informações.
 
 ### Organizadores
+- @ramyres110
+- @weder942
 
 ### Links
 - Código de Conduta : <https://github.com/stumpsyn/policies>
