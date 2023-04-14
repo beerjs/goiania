@@ -24,10 +24,7 @@ Fiquem ligados!
 
 
 ### Junte-se a nós 
-<img src="/img/qrcode_wtapp_group.png" width="20%">
 
-Whatsapp Group <https://chat.whatsapp.com/8jC6ErkQ6uT1Z3jhbnza5k>
-Ou envie um oi para `+55 62 98521-2227`
 
 ### Siga-nos
 - Facebook [@beerjsgoiania](https://www.facebook.com/beerjsgoiania)
